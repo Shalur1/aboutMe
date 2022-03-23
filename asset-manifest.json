@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "./static/css/main.926f20b3.css",
+    "main.js": "./static/js/main.98e01d46.js",
+    "static/js/787.28cb0dcd.chunk.js": "./static/js/787.28cb0dcd.chunk.js",
+    "static/media/Adaptive.gif": "./static/media/Adaptive.ed91c8480f6747735fa7.gif",
+    "static/media/UshodTimes.gif": "./static/media/UshodTimes.3f7ee0618be1b73056ae.gif",
+    "static/media/Theater.png": "./static/media/Theater.16a001eddbf845218d6a.png",
+    "static/media/ClassComponents.png": "./static/media/ClassComponents.f1a7d3fbf54fac2d959c.png",
+    "static/media/Formik.png": "./static/media/Formik.21de4b128d1286521ab0.png",
+    "static/media/Hooks.png": "./static/media/Hooks.ca21c8c41339ca7391e5.png",
+    "index.html": "./index.html",
+    "main.926f20b3.css.map": "./static/css/main.926f20b3.css.map",
+    "main.98e01d46.js.map": "./static/js/main.98e01d46.js.map",
+    "787.28cb0dcd.chunk.js.map": "./static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.926f20b3.css",
+    "static/js/main.98e01d46.js"
+  ]
+}
